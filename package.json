@@ -1,0 +1,20 @@
+{
+  "name": "reactday1",
+  "version": "1.0.0",
+  "description": "This is my Learning phase.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "namaste",
+    "react",
+    "roshan",
+    "raturi"
+  ],
+  "author": "Roshan Raturi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
